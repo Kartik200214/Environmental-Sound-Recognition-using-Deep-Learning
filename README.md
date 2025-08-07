@@ -1,4 +1,4 @@
-Urban Sound Classification using Deep Learning
+Environmental-Sound-Recognition-using-Deep-Learning
 
 This project implements a Convolutional Neural Network (CNN) to classify environmental sounds from the UrbanSound8K dataset. The system processes audio files, converts them into Mel spectrograms, and uses a trained CNN model to identify the sound's category. The entire application is packaged with a Flask API for easy deployment on cloud platforms like AWS or GCP.
 
